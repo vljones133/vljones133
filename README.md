@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Firebase, Firestore, React Native, Redux Toolkit, and Google APIs**
 
-- 📫 How to reach me **vljones133@gmail.com**
+- 📫 Reach out: **vljones133@gmail.com**
 
-- 📄 Checkout my resume: [https://drive.google.com/file/d/1FPvO88rYN1xUslN-02giJgicyHw7fTH9/view?usp=sharing](https://drive.google.com/file/d/1FPvO88rYN1xUslN-02giJgicyHw7fTH9/view?usp=sharing)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1FPvO88rYN1xUslN-02giJgicyHw7fTH9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
