@@ -5,7 +5,7 @@
 
 - 📫 Reach out: **vljones133@gmail.com**
 
-- 📄 Checkout my [Resume](https://drive.google.com/file/d/1FPvO88rYN1xUslN-02giJgicyHw7fTH9/view?usp=sharing)
+- 📄 Checkout my [Resume](https://www.cakeresume.com/valerie-jones)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
