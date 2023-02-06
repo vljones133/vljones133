@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm a full-stack software engineer</h1>
-<h3 align="center">I am an energetic, ambitious software engineer who wants to make an impact at a mission-driven company.</h3>
+<h3 align="center">I am a curious and energetic software engineer who wants to make an impact at a mission-driven company.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vljones133" alt="vljones133" /></a> </p>
 
