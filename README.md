@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vljones133" alt="vljones133" /></a> </p>
 
-- 📫 Reach out: **vljones133@gmail.com**
+- 📫 Reach out: **vjonesdev@gmail.com**
 
 - 📄 Checkout my [Resume](https://www.cakeresume.com/valerie-jones)
 
