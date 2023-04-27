@@ -3,13 +3,15 @@
 <h3 align="left">I am a curious and energetic full stack software engineer who wants to make an impact at a mission-driven company.</h3>
 
  - 🎓 The Grace Hopper Program at Fullstack Academy graduate (September 2022). PERN stack focused bootcamp.
- - 📫 Reach out: **vjonesdev@gmail.com**
  - 📄 Checkout my [Resume](https://www.cakeresume.com/valerie-jones)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/valeriejones133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valeriejones133" height="30" width="40" /></a>
-</p>
+<h3 align="left">Let's Connect:</h3>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vjonesdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valeriejones133)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ValJonesDev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-54039A?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://vjones.dev/)
+
 
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://skillicons.dev" rel="nofollow">
@@ -22,4 +24,5 @@
 ![Valerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=vljones133&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vljones133&theme=tokyonight&layout=compact)](https://github.com/vljones133/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vljones133&theme=tokyonight)](https://git.io/streak-stats)
+
 <p>
