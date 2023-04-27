@@ -3,14 +3,15 @@
 <h3 align="left">I am a curious and energetic full stack software engineer who wants to make an impact at a mission-driven company.</h3>
 
  - 🎓 The Grace Hopper Program at Fullstack Academy graduate (September 2022). PERN stack focused bootcamp.
- - 📄 Checkout my [Resume](https://www.cakeresume.com/valerie-jones)
+
+[![Resume](https://img.shields.io/badge/Resume-%23ED2B88.svg?style=for-the-badge&logoColor=fff)](https://www.cakeresume.com/valerie-jones)
+[![Portfolio](https://img.shields.io/badge/Portfolio-54039A?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://vjones.dev/)
 
 <h3 align="left">Let's Connect:</h3>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vjonesdev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valeriejones133)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ValJonesDev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-54039A?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://vjones.dev/)
 
 
 <h3 align="left">Languages and Tools:</h3>
