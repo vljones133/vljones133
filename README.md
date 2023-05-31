@@ -1,6 +1,6 @@
 
 <h2 align="left">Hi 👋, I'm Valerie</h1>
-<h3 align="left">I am a curious and energetic full stack software engineer who wants to make an impact at a mission-driven company.</h3>
+<h3 align="left">I am a curious and energetic full stack software engineer who is an expert at finding bugs, and not too bad at fixing them either.</h3>
 
  - 🎓 The Grace Hopper Program at Fullstack Academy graduate (September 2022). PERN stack focused bootcamp.
 
