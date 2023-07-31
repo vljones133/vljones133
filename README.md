@@ -2,9 +2,9 @@
 <h2 align="left">Hi 👋, I'm Valerie</h1>
 <h3 align="left">I am a curious and energetic full-stack software engineer who is an expert at finding bugs and decent at fixing them, too.</h3>
 
- - 🎓 The Grace Hopper Program at Fullstack Academy graduate (September 2022). PERN stack focused bootcamp.
+ - 🎓 The Grace Hopper Program at Fullstack Academy graduate (September 2022). PERN stack focused BootCamp.
 
-[![Resume](https://img.shields.io/badge/Resume-%23ED2B88.svg?style=for-the-badge&logoColor=fff)](https://www.cakeresume.com/valerie-jones)
+<!--[![Resume](https://img.shields.io/badge/Resume-%23ED2B88.svg?style=for-the-badge&logoColor=fff)](https://www.cakeresume.com/valerie-jones)-->
 [![Portfolio](https://img.shields.io/badge/Portfolio-54039A?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://vjones.dev/)
 
 <h3 align="left">Let's Connect:</h3>
