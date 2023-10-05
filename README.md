@@ -1,4 +1,3 @@
-
 <h2 align="left">Hi 👋, I'm Valerie</h1>
 <h3 align="left">I am a curious and energetic full-stack software engineer who is an expert at finding bugs and decent at fixing them, too.</h3>
 
