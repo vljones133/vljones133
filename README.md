@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Valerie</h1>
+<h1 align="left">Hi 👋, I'm Valerie</h1>
 <h3 align="left">I am a curious and energetic full-stack software engineer who is an expert at finding bugs and decent at fixing them, too.</h3>
 
  - 🎓 The Grace Hopper Program at Fullstack Academy graduate (September 2022). PERN stack focused BootCamp.
