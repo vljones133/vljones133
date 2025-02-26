@@ -1,7 +1,15 @@
 <h1 align="left">Hi 👋, I'm Valerie</h1>
-<h3 align="left">I am a curious and energetic full-stack software engineer who is an expert at finding bugs and decent at fixing them, too.</h3>
+<h3 align="left">I am a curious and energetic full-stack software engineer who is an expert at finding bugs and decent at fixing them, too. Here are a handful of things I've been up to recently:</h3>
 
- - 🎓 The Grace Hopper Program at Fullstack Academy graduate (September 2022). PERN stack focused BootCamp.
+ - __Architectural Transformation__ – Modernized a legacy job processing system with AWS Step Functions, SQS, SNS, and automated EC2 management, enhancing scalability and reducing operational overhead.
+
+- __Infrastructure Modernization__ – Migrated Terraform to AWS CDK, introduced dynamic environment variables, and consolidated 1,440+ lines of code for efficient AWS Secrets management.
+
+- __CI/CD and DevOps Enhancements__ – Standardized CI/CD pipelines, integrated Tidelift for automated dependency management, and developed onboarding documentation to improve developer experience.
+
+- __End-to-End Pipeline Development__ – Designed and delivered a file processing pipeline using GitLab CI/CD, AWS CDK, Step Functions, Lambda, and GDAL, incorporating error handling, queue management, and programmatic redactions.
+
+- __Metrics & Monitoring Dashboards__ – Built Sumo Logic and CloudFront dashboards to analyze app errors, malicious IPs, and traffic metrics, improving monitoring and operational visibility.
 
 <!--[![Resume](https://img.shields.io/badge/Resume-%23ED2B88.svg?style=for-the-badge&logoColor=fff)](https://www.cakeresume.com/valerie-jones)-->
 [![Portfolio](https://img.shields.io/badge/Portfolio-54039A?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://vjones.dev/)
@@ -11,13 +19,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vjonesdev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valeriejones133)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ValJonesDev)
-
-
-<h3 align="left">Languages and Tools:</h3>
-  <a href="https://skillicons.dev" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/15980f118ef12afdd72ab862ad087a49df6ad6d40c36ec645496fb8ae8364f8f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c72656163742c72656475782c6e6f64656a732c657870726573732c706f7374677265732c66697265626173652c68746d6c2c6373732c626f6f7473747261702c6865726f6b752c6769742c676974687562" data-canonical-src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,postgres,firebase,html,css,bootstrap,heroku,git,github" style="max-width: 100%;">
-  </a>
-
 
 <p dir='auto'>
 
